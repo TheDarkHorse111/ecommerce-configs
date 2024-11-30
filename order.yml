@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+order:
+  message: "Welcome to order service api"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@mail.com"

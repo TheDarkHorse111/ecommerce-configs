@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+cart:
+  message: "Welcome to cart service api"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@mail.com"
